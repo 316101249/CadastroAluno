@@ -1,4 +1,5 @@
 Cadastro de disciplina
 
-Código: 001
+CÃ³digo: 001
 Disciplina: CC
+Curso: CC
