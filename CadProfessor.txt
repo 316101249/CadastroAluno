@@ -1,7 +1,5 @@
 Cadastro de professor
 
-MatrÃ­cula: 0202
+Matrícula: 0202
 Nome: Yaga
 e-mail: yagona@gmail.com
-Telefone: (11) 6666-6666
-Disciplina que leciona: CC
