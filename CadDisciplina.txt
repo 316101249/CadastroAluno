@@ -1,4 +1,4 @@
 Cadastro de disciplina
 
-Código: 001
-Disciplina: CC
+CD: 001
+Disciplina: SI
